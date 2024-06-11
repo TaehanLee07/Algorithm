@@ -7,7 +7,6 @@ public class Main {
  
 		int T = in.nextInt();	
  
- 
 		for(int i = 0; i < T; i++) {
 			
 			int H = in.nextInt();
