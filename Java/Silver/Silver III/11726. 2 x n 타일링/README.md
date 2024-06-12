@@ -12,7 +12,7 @@
 
 아래 그림은 2×5 크기의 직사각형을 채운 한 가지 방법의 예이다.
 
-!https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11726/1.png
+![image](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11726/1.png)
 
 ## 입력
 
