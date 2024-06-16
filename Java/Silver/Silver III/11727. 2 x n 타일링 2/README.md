@@ -12,7 +12,7 @@
 
 아래 그림은 2×17 직사각형을 채운 한가지 예이다.
 
-!https://www.acmicpc.net/upload/images/t2n2122.gif
+![image]https://www.acmicpc.net/upload/images/t2n2122.gif
 
 ## 입력
 
