@@ -3,7 +3,6 @@ import java.io.*;
 public class Main {
 
     private static BufferedReader br;
-
     private static int N;
     private static int[] arr;
     private static int[] nums = new int[10];
