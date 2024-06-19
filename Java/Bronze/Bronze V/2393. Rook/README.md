@@ -1,6 +1,6 @@
 
 
-# [Rook [다국어][(https://www.acmicpc.net/problem/2393)
+# [Rook [다국어]](https://www.acmicpc.net/problem/2393)
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
 | --- | --- | --- | --- | --- | --- |
