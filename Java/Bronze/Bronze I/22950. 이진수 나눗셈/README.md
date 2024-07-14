@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/22950)
+
 
 # [이진수 나눗셈](https://www.acmicpc.net/problem/22950)
 
