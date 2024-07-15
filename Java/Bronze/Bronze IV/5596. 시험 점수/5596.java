@@ -12,5 +12,4 @@ public class Main {
 		}
 		System.out.println(Math.max(sumA, sumB)); 
 	}
-
 }
