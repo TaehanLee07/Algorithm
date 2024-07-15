@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/9295)
+[
 
 # 주사위 [다국어]
 
