@@ -22,9 +22,9 @@ public class Main {
         
         if(mathP % math_day != 0) {
         	m = mathP/math_day+1;
-        }else {
+        }else 
         	m = mathP/math_day;
-        }
+        
         
         
         System.out.println(k >= m ? L-k : L-m);
