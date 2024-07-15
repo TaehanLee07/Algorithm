@@ -10,7 +10,6 @@ public class Main {
 		for (int i = 0; i < 4; i++) {
 			sumB += sc.nextInt();
 		}
-		
 		System.out.println(Math.max(sumA, sumB)); 
 	}
 
