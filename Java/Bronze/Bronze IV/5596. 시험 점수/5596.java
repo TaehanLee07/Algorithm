@@ -6,7 +6,6 @@ public class Main {
 		for (int i = 0; i < 4; i++) {
 			sumA += sc.nextInt();
 		}
-
 		int sumB = 0;
 		for (int i = 0; i < 4; i++) {
 			sumB += sc.nextInt();
