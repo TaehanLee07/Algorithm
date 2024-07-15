@@ -20,9 +20,9 @@ public class Main {
         	k = koreanP/korean_day;
         
         
-        if(mathP % math_day != 0) {
+        if(mathP % math_day != 0) 
         	m = mathP/math_day+1;
-        }else 
+        else 
         	m = mathP/math_day;
         
         
