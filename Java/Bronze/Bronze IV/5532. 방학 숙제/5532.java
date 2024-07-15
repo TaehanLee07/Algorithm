@@ -14,7 +14,7 @@ public class Main {
         int k = 0;
         int m = 0;
         
-        if(koreanP % korean_day != 0) 
+        if(koreanP % korean_day != 0)
         	k = koreanP/korean_day+1;
         else 
         	k = koreanP/korean_day;
