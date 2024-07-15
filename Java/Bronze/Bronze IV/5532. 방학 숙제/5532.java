@@ -26,5 +26,4 @@ public class Main {
         
         System.out.println(k >= m ? L-k : L-m);
 	}
-
 }
