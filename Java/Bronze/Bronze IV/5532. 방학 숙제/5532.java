@@ -24,7 +24,6 @@ public class Main {
         else 
         	m = mathP/math_day;
         
-        
         System.out.println(k >= m ? L-k : L-m);
         
 	}
