@@ -18,12 +18,11 @@ public class Main {
         	k = koreanP/korean_day+1;
         else 
         	k = koreanP/korean_day;
-        
+
         if(mathP % math_day != 0)
         	m = mathP/math_day+1;
         else 
         	m = mathP/math_day;
-        
         
         
         System.out.println(k >= m ? L-k : L-m);
