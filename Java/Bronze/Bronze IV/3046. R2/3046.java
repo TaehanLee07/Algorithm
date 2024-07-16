@@ -9,6 +9,5 @@ public class Main {
 		int b = sc.nextInt();
 		
 		System.out.println((b*2)-a);
-
 	}
 }
