@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/2742)
+[
 
 # 기찍 N
 
