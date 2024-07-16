@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/3046)
+[
 
 # R2 다국어
 
