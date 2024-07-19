@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/20673)
+
 
 # Covid-19 [다국어]
 
