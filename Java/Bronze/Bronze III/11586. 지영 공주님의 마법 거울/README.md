@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/11586)
+[
 
 # 지영 공주님의 마법 거울
 
