@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/3733)
+[
 
 # Shares [다국어]
 
