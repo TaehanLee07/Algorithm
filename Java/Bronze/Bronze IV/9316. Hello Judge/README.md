@@ -1,4 +1,4 @@
-[
+
 
 # Hello Judge [다국어]
 
