@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/9316)
+[
 
 # Hello Judge [다국어]
 
