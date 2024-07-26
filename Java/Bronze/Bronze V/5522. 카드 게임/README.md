@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/5522)
+[
 
 # 카드 게임 [서브태스크] [다국어]
 
