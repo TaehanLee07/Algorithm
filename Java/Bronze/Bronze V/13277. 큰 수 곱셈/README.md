@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/13277)
+[
 
 # 큰 수 곱셈
 
