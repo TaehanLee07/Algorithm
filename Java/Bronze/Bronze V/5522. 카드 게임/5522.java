@@ -8,6 +8,7 @@ public class Main {
             int score = sc.nextInt();
             res += score;
         }
+        
         System.out.println(res);
     }
 }
