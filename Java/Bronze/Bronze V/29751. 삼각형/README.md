@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/29751)
+[
 
 # 삼각형 [다국어]
 
