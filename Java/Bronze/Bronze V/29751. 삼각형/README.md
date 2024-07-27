@@ -10,7 +10,7 @@
 
 양의 정수 W$W$, H$H$가 주어진다. 밑변의 길이가 W$W$이고, 높이가 H$H$인 삼각형의 넓이를 구하시오.
 
-https://upload.acmicpc.net/f24ae595-16ac-45e7-9c86-60216c7bc7a9/-/preview/
+![images](https://upload.acmicpc.net/f24ae595-16ac-45e7-9c86-60216c7bc7a9/-/preview/)
 
 ## 입력
 
