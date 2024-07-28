@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/25286)
+[
 
 # 11월 11일
 
