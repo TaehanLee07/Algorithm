@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/28431)
+[
 
 
 # [양말 짝 맞추기 [다국어]
