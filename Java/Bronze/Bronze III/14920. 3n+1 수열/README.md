@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/14920)
+[](https://www.acmicpc.net/problem/14920) 
 
 # 3n+1 수열
 
