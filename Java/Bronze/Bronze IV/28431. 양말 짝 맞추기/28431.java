@@ -8,8 +8,8 @@ public class Main {
         int index;
         int cnt = 0;
         
-		for(int i = 0; i < socks.length; i++)
-			socks[i] = sc.nextInt();
+	for(int i = 0; i < socks.length; i++)
+		socks[i] = sc.nextInt();
 		
 		for(index = 0; index < 5; index++) {
 			for(int j = 0; j < 5; j++) 
