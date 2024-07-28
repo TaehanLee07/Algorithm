@@ -8,7 +8,6 @@ public class Main {
                           31, 30, 31, 31,
                           30, 31, 30, 31};
         
-        
         for (int i = 0; i < T; i++) {
             int year = sc.nextInt();
             int mon = sc.nextInt();
@@ -22,7 +21,6 @@ public class Main {
                 mon = 12;
             } else 
                 mon--;
-            
             System.out.println(year + " " + mon + " " + dayOfMon[mon - 1]);
         }
     }
