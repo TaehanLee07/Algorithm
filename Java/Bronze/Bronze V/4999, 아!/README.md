@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/4999)
+[
 
 # 아! 다국어
 
