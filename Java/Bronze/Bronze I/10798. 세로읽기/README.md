@@ -1,4 +1,4 @@
-
+ 
 
 # [세로읽기](https://www.acmicpc.net/problem/10798)
 
