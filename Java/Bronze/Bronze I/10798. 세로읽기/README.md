@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/10798)
+
 
 # 세로읽기
 
