@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/4564)
+[
 
 # 숫자 카드놀이 [다국어]
 
