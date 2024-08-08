@@ -5,7 +5,7 @@ public class Main {
         Scanner SC = new Scanner(System.in);
 
         while (true) {
-            int t = SC.nextInt();
+            int t = sc.nextInt();
             // 탈출
             if (t == 0) break;
 
