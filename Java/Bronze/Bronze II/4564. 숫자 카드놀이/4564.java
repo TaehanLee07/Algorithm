@@ -18,7 +18,7 @@ public class Main {
 
                 for (int i = 0; i < strT.length(); i++) {
                     temp *= (strT.charAt(i) - '0');
-                }
+                
                 t = temp;
             }
             System.out.println(t);
