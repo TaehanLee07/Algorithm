@@ -10,7 +10,6 @@ public class Main {
             if (t == 0) break;
 
             int temp = 1;
-            // t를 문자열로 바꾼 것의 길이 1이 아니면 반복
             while (Integer.toString(t).length() != 1) {
                 System.out.print(t + " ");
                 String strT = Integer.toString(t);
