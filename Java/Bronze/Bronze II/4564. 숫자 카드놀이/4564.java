@@ -17,7 +17,7 @@ public class Main {
                 temp = 1; // Reset temp for each number
 
                 for (int i = 0; i < strT.length(); i++) 
-                    temp *= (strT.charAt(i) - '0');
+temp *= (strT.charAt(i) - '0');
                 
                 t = temp;
             }
