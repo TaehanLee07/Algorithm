@@ -10,6 +10,7 @@ public class Main {
             if (t == 0) break;
 
             int temp = 1;
+            
             while (Integer.toString(t).length() != 1) {
                 System.out.print(t + " ");
                 String strT = Integer.toString(t);
