@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/15680)
+[
 
 # 연세대학교
 
