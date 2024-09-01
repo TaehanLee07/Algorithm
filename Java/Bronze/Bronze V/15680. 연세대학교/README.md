@@ -8,7 +8,7 @@
 
 ## 문제
 
-!https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15680/1.png
+![image](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15680/1.png)
 
 연세대학교의 영문명은 YONSEI, 슬로건은 Leading the Way to the Future이다.
 
