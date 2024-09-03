@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/9653)
+[
 
 # 스타워즈 로고 [다국어]
 
