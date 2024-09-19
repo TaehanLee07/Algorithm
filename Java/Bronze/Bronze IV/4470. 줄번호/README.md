@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/4470)
+[]
 
 # 줄번호 [다국어] [한국어]
 
