@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/8437)
+[]
 
 # [Julka [다국어]
 
