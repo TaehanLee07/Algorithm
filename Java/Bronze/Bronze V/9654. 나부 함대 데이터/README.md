@@ -1,4 +1,4 @@
-[](https://www.acmicpc.net/problem/9654)
+
 
 # 나부 함대 데이터 [다국어] [한국어]
 
