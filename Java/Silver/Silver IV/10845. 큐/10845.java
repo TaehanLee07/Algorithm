@@ -1,8 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
-	
+public class Main { // 2024-10-21: 코드 수정
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());
